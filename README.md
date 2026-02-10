@@ -2,6 +2,8 @@
 
 Este repositorio contiene archivos de evaluación que se publican automáticamente en GitHub Pages mediante GitHub Actions.
 
+> 📖 **Para una guía rápida y práctica, consulta [URL_GUIDE.md](URL_GUIDE.md)**
+
 ## 🌐 URL Base de GitHub Pages
 
 La página principal del sitio es:

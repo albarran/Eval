@@ -69,6 +69,7 @@ A continuación se listan todos los informes de evaluación disponibles. Haz cli
 ## 📖 Documentación Adicional
 
 - [Rúbrica de Evaluación](RUBRICA_EVALUACION.html)
+- [Guía Rápida de URLs](URL_GUIDE.html) - Cómo encontrar y acceder a las páginas
 
 ---
 
